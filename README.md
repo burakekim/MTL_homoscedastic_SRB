@@ -34,14 +34,14 @@ Citation
 
 Please kindly cite the paper below if this code is useful and helpful for your research.
 
-@misc{ekim2021multitask,
-      title={A Multi-Task Deep Learning Framework for Building Footprint Segmentation}, 
-      author={Burak Ekim and Elif Sertel},
-      year={2021},
-      eprint={2104.09375},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+    @misc{ekim2021multitask,
+          title={A Multi-Task Deep Learning Framework for Building Footprint Segmentation}, 
+          author={Burak Ekim and Elif Sertel},
+          year={2021},
+          eprint={2104.09375},
+          archivePrefix={arXiv},
+          primaryClass={cs.CV}
+    }
 
 Contact Information:
 --------------------
