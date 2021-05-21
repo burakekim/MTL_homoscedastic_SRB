@@ -1,5 +1,5 @@
 # A MULTI-TASK DEEP LEARNING FRAMEWORK FOR BUILDING FOOTPRINT SEGMENTATION
-This repository contains the code for the paper [A MULTI-TASK DEEP LEARNING FRAMEWORK FOR BUILDING FOOTPRINT SEGMENTATION](https://arxiv.org/abs/2104.09375),
+This repository contains the code for the paper [A MULTI-TASK DEEP LEARNING FRAMEWORK FOR BUILDING FOOTPRINT SEGMENTATION](https://arxiv.org/abs/2104.09375)
 
 
 Framework
@@ -19,7 +19,7 @@ Outputs
 How to use it?
 ---------------------
 
-Simply download the repository and run the *main_notebook.ipynb*. 'segmentation models pytorch' library is used as a main segmentation framework. 
+Simply download the repository and follow the *main_notebook.ipynb*. 'segmentation models pytorch' library is used as a main segmentation framework.
 
 The [Spacenet6](https://arxiv.org/abs/2004.06500) dataset needs to be downloaded prior to running the main notebook. 
   
