@@ -19,9 +19,12 @@ Outputs
 How to use it?
 ---------------------
 
-Simply download the repository and follow the *main_notebook.ipynb*. `segmentation models pytorch` library is used as a main segmentation framework.
+Simply download the repository and follow the *main_notebook.ipynb* after modifying the paths and the parameters in the *params.py* script.
 
 The [Spacenet6](https://arxiv.org/abs/2004.06500) dataset needs to be downloaded prior to running the main notebook. 
+
+The code was implemented in Python(3.8) and PyTroch(1.14.0) on Windows OS. The *segmentation models pytorh* library is used as a baseline for implementation. Apart from main data science libraries, RS-specific libraries such as GDAL, rasterio, and tifffile are also required.
+
   
 Feel free to get in touch with me via the e-mail below for the pre-trained weights.
 
