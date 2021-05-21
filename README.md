@@ -29,6 +29,20 @@ The code was implemented in Python(3.8) and PyTroch(1.14.0) on Windows OS. The *
 Feel free to get in touch with me via the e-mail below for the pre-trained weights.
 
 
+Citation
+---------------------
+
+Please kindly cite the paper below if this code is useful and helpful for your research.
+
+@misc{ekim2021multitask,
+      title={A Multi-Task Deep Learning Framework for Building Footprint Segmentation}, 
+      author={Burak Ekim and Elif Sertel},
+      year={2021},
+      eprint={2104.09375},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
 Contact Information:
 --------------------
 
