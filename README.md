@@ -4,7 +4,7 @@ This repository contains the code for the paper [A MULTI-TASK DEEP LEARNING FRAM
 
 Framework
 ---------------------
-![alt text](ims/Motivation.png)
+![alt text](ims/motiv.png)
 
 
 Outputs
