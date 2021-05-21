@@ -19,7 +19,7 @@ Outputs
 How to use it?
 ---------------------
 
-Simply download the repository and follow the *main_notebook.ipynb*. "segmentation models pytorch" library is used as a main segmentation framework.
+Simply download the repository and follow the *main_notebook.ipynb*. `segmentation models pytorch` library is used as a main segmentation framework.
 
 The [Spacenet6](https://arxiv.org/abs/2004.06500) dataset needs to be downloaded prior to running the main notebook. 
   
