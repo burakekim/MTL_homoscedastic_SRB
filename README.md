@@ -25,23 +25,11 @@ The [Spacenet6](https://arxiv.org/abs/2004.06500) dataset needs to be downloaded
 
 The code was implemented in Python(3.8) and PyTroch(1.14.0) on Windows OS. The *segmentation models pytorh* library is used as a baseline for implementation. Apart from main data science libraries, RS-specific libraries such as GDAL, rasterio, and tifffile are also required.
 
-  
-Feel free to get in touch with me via the e-mail below for the pre-trained weights.
-
-
 Citation
 ---------------------
 
-Please kindly cite the paper below if this code is useful and helpful for your research.
+B. Ekim and E. Sertel, "A Multi-Task Deep Learning Framework for Building Footprint Segmentation," 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021, pp. 2500-2503, doi: 10.1109/IGARSS47720.2021.9554766.
 
-    @misc{ekim2021multitask,
-          title={A Multi-Task Deep Learning Framework for Building Footprint Segmentation}, 
-          author={Burak Ekim and Elif Sertel},
-          year={2021},
-          eprint={2104.09375},
-          archivePrefix={arXiv},
-          primaryClass={cs.CV}
-    }
 
 Contact Information:
 --------------------
