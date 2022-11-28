@@ -1,5 +1,5 @@
 # Land Use and Land Cover Mapping Using Deep Learning Based Segmentation Approaches and VHR Worldview-3 images
-This repository contains the code for the paper [A MULTI-TASK DEEP LEARNING FRAMEWORK FOR BUILDING FOOTPRINT SEGMENTATION](https://ieeexplore.ieee.org/document/9554766)
+This repository contains the code for the paper [A MULTI-TASK DEEP LEARNING FRAMEWORK FOR BUILDING FOOTPRINT SEGMENTATION](https://ieeexplore.ieee.org/document/9554766). This works constructs a multi-task learning framework in which the main segmentation task is coupled with the image reconstruction and edge extraction tasks. A homoscedastic uncertainty aware-objective function is formed where individual loss contributions are learned throughout the training procedure, along with the default weights.   
 
 
 Framework
@@ -9,6 +9,8 @@ Framework
 
 Outputs
 ---------------------
+
+Sample outputs, from left to right: Input Image, Segmentation Annotation, Predicted Segmentation Annotation, Edge Annotation, Predicted Edge Annotation, Reconstructed Input Image.
 ![alt text](ims/1.png)
 ![alt text](ims/2.png)
 ![alt text](ims/3.png)
