@@ -4,7 +4,7 @@ This repository contains the code for the paper [A MULTI-TASK DEEP LEARNING FRAM
 
 Framework
 ---------------------
-- This works constructs a multi-task learning framework in which the main segmentation task is coupled with the auxilliary image reconstruction and edge extraction tasks. A homoscedastic uncertainty aware-objective function is formed where individual loss contributions are learned throughout the training procedure, along with the default weights.   
+- This work constructs a multi-task learning framework in which the main segmentation task is coupled with the auxilliary image reconstruction and edge extraction tasks. A homoscedastic uncertainty aware-objective function is formed where individual loss contributions are learned throughout the training procedure, along with the default weights.   
 
 ![alt text](ims/motiv.png)
 
