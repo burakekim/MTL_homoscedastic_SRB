@@ -14,9 +14,9 @@ Outputs
 Sample outputs, from left to right: 
 - Input Image,
 - Segmentation Annotation,
-- Predicted Segmentation Annotation,
+- Predicted Segmentation Map,
 - Edge Annotation,
-- Predicted Edge Annotation,
+- Predicted Edge Map,
 - Reconstructed Input Image.
 
 ![alt text](ims/1.png)
