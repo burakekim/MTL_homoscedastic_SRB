@@ -39,11 +39,3 @@ Citation
 ---------------------
 
 B. Ekim and E. Sertel, "A Multi-Task Deep Learning Framework for Building Footprint Segmentation," 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021, pp. 2500-2503, doi: 10.1109/IGARSS47720.2021.9554766.
-
-
-Contact Information:
---------------------
-
-If you encounter bugs while using this code, please do not hesitate to contact me.
-
-Burak Ekim: burak.ekim@unibw.de <br>
